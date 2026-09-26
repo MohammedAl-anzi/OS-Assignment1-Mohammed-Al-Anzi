@@ -29,11 +29,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | محمد بشير العنزي |
+| **Student ID** | 444050882 |
+| **University Email** | 444050882@std.psau.edu.sa |
+| **GitHub Username** | MohammedAl-anzi |
+| **Repository Link** | https://github.com/MohammedAl-anzi/OS-Assignment1-Mohammed-Al-Anzi |
  
 ---
 
@@ -109,75 +109,95 @@
 
 ## Example Entry (do not copy it, write your own)
 
-### Entry 1 - [September 22, 2026, 2:30 PM]
-**What I did**: Forked the repository and set up my student ID
+Entry 1 - [September 22, 2026, 2:30 PM]
+What I did: Forked the repository and set up my student ID
 
+Details:
+
+Created GitHub account with university email
+Forked the starter repository and renamed it
+Changed student ID on line 150 to my actual ID (441234567)
+Compiled and ran the program successfully
+Committed and pushed: Set my student ID: 441234567
+Challenges: Had to install JDK first because javac wasn't recognized
+
+Solution: Downloaded JDK 17 and set the PATH variable
+
+Time spent: 30 minutes
+
+
+
+
+## Your Development Log
+
+### Entry 1 - [September 26, 2026, 6:30 AM]
+**What I did**:
+i set up my vs and github account
 **Details**:
-- Created GitHub account with university email
-- Forked the starter repository and renamed it
-- Changed student ID on line 150 to my actual ID (441234567)
-- Compiled and ran the program successfully
-- Committed and pushed: `Set my student ID: 441234567`
+i began to install VS stiduo but it only has ubinto/fedora in it main page so i installed it via paru package manger
+then i singed in with unvristy email in github
+**Challenges**:
+tryin to install vs studio
+**Solution**:
+this command did the work bash:"paru  -S visual-studio-code-bin"
+**Time spent**: 40 minutes
 
-**Challenges**: Had to install JDK first because `javac` wasn't recognized
+---
 
-**Solution**: Downloaded JDK 17 and set the PATH variable
+### Entry 2 - [September 26, 2026, 8:10 AM]
+**What I did**
+i forked and added the first feature priorty
+**Details**:
+
+1- added the var Priority
+2- updated the constructor to alin with Priority
+3-added a getter meth for Priority 
+
+changes made to the SchedulerSimulation class:
+1- added a declartion for Priority to make it random 
+2- updated the print message to alin with the Priority addtion 
+
+**Challenges**
+adding priorty to the print message
+**Solution**
+an llm reminded me how to do it with the getters
+**Time spent**: 90 minutes
+
+---
+
+### Entry 3 - [September 26, 2026, 8:40 AM]
+**What I did**:
+added the second feature
+**Details**:
+added a counter for  context switches
+Changes:
+1-added a var to track number of context switch 
+
+2- to increases each time the cpu  starts a process 
+3- print total context switches 
+
+
 
 **Time spent**: 30 minutes
 
 ---
 
-## Your Development Log
-
-### Entry 1 - [Date and Time]
+### Entry 4 - [September 26, 2026, 10:20 AM]
 **What I did**:
-
+added the last feature 
 **Details**:
+added track waitin time
+add some vars to track the time and catagoried based on some event (creation, when is did it finsih, etc)  
+
+added a new meth to rec the time a process joined ready queue 
+
+a time table have been made 
 
 **Challenges**:
-
+the table was very hard on me
 **Solution**:
-
-**Time spent**:
-
----
-
-### Entry 2 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
-
----
-
-### Entry 3 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
-
----
-
-### Entry 4 - [Date and Time]
-**What I did**:
-
-**Details**:
-
-**Challenges**:
-
-**Solution**:
-
-**Time spent**:
+i asked an llm on how to do it. i formed a genral understanding of it now
+**Time spent**: 60 minuts more or less
 
 ---
 
